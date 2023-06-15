@@ -1,2 +1,1 @@
-a = input().split()
-print(len(a))
+A, B = list(map(int, input().split()))
